@@ -1,0 +1,58 @@
+html {
+  text-align : center;
+  margin : 0 auto;
+  color: RoyalBlue;
+  font-family: 'Roboto', sans-serif;
+}
+li {
+  list-style-type: none;
+}
+
+#title {
+  font-family: 'Archivo Narrow', sans-serif;
+  font-size: 200px;
+  color: white;
+}
+
+#subtitle {
+  font-family: 'Anton', sans-serif;
+  font-size: 70px;
+  color: #b3b3b3;
+  text-shadow: 5px 5px #956d7f;
+}
+
+#discografia {
+  font-family: 'Bungee Outline';
+  font-size: 45px;
+  color: white;
+}
+#quote {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 15px;
+  color: #c0c8ff;
+}
+
+a {
+  font-family: 'Keania One';
+  font-size: 20px;
+  color: #19334d;
+  text-decoration: none;
+}
+
+ul {
+font-family: 'VT323', monospace;
+font-size: 18px;
+color: #956d7f;
+}
+
+body {
+    background-image: url("https://media.tenor.co/images/b1fcb1afb578d1c0f29472106faa166d/tenor.gif");
+    background-color: #cccccc;
+    background-size: 2000px;
+}
+
+#imagen {
+    border-style: dotted;
+    border-color: white;
+    border-radius: 30px 50px;
+}
